@@ -1,0 +1,1 @@
+export type Tab = 'guia-estudo' | 'guia-ensino';
